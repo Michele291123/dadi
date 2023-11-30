@@ -1,0 +1,1 @@
+sistema intuitivo per lanciare virtualmente dei dadi e vedere che numeri escono
